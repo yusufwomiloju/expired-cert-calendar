@@ -6,5 +6,8 @@ This tool generates a calendar of expired certificates in an IBM Security Access
 * ics
 * ibmsecurity
 
+pip install -r requirements.txt
+
 ## Usage
+
 
